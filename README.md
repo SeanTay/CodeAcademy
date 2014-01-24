@@ -1,2 +1,2 @@
-Just some lesson I'm learning. 
+Just some lessons I'm learning. 
 ===========
