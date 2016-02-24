@@ -41,3 +41,5 @@ var compare = function(userChoice,computerChoice)
 };
 
 compare(userChoice,computerChoice);
+
+Changes made to this. 
